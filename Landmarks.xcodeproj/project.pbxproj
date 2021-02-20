@@ -16,6 +16,7 @@
 		2AEB26A025E1A0CE007FB67A /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AEB269F25E1A0CE007FB67A /* landmarkData.json */; };
 		2AEB26A325E1A0EC007FB67A /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB26A225E1A0EC007FB67A /* Landmark.swift */; };
 		2AEB26A725E1A3C7007FB67A /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB26A625E1A3C7007FB67A /* ModelData.swift */; };
+		2AEB26AF25E1A62D007FB67A /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB26AE25E1A62D007FB67A /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2AEB269F25E1A0CE007FB67A /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		2AEB26A225E1A0EC007FB67A /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		2AEB26A625E1A3C7007FB67A /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		2AEB26AE25E1A62D007FB67A /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				2AEB268B25E195E2007FB67A /* ContentView.swift */,
 				2AEB269925E198F9007FB67A /* CircleImage.swift */,
 				2AEB269C25E19AB2007FB67A /* MapView.swift */,
+				2AEB26AE25E1A62D007FB67A /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				2AEB268A25E195E2007FB67A /* LandmarksApp.swift in Sources */,
 				2AEB269A25E198F9007FB67A /* CircleImage.swift in Sources */,
 				2AEB26A325E1A0EC007FB67A /* Landmark.swift in Sources */,
+				2AEB26AF25E1A62D007FB67A /* LandmarkRow.swift in Sources */,
 				2AEB26A725E1A3C7007FB67A /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
